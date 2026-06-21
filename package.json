@@ -1,0 +1,26 @@
+{
+  "name": "playwright-ai-portfolio",
+  "version": "1.0.0",
+  "description": "This is an initial repo to make some testing on saucedemo",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGrimo81/playwright-ai-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasGrimo81/playwright-ai-portfolio/issues"
+  },
+  "homepage": "https://github.com/LucasGrimo81/playwright-ai-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
